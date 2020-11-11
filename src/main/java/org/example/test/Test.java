@@ -7,6 +7,7 @@ public class Test {
         System.out.println("test");
         System.out.println("tag1");
         System.out.println("test2");
+        System.out.println("tag2");
     }
 
 }
